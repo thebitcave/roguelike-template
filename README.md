@@ -8,4 +8,4 @@ Template Unity3D per la realizzazione di giochi Roguelike.
 * [KayKit Dungeon Pack](https://kaylousberg.itch.io/kaykit-dungeon)
 * [KayKit Spooktober Seasonal Pack](https://kaylousberg.itch.io/kaykit-spooktober)
 
-PEr supportare Kay Lousberg, visitare la sua pagina su [Patreon](https://www.patreon.com/kaylousberg).
+Per supportare Kay Lousberg, visitare la sua pagina su [Patreon](https://www.patreon.com/kaylousberg).
